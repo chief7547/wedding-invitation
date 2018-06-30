@@ -1486,6 +1486,10 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
+			.names {
+				width 300px;
+			}
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -2311,7 +2315,7 @@ input, select, textarea {
 			}
 
 			#main section.cover {
-				padding: 10em 0;
+				padding: 8em 0;
 			}
 
 	}
@@ -2569,7 +2573,7 @@ input, select, textarea {
 				}
 
 				#main section.cover {
-					padding: 10em 0;
+					padding: 6em 0;
 				}
 
 	}
@@ -2608,7 +2612,7 @@ input, select, textarea {
 			}
 
 			#main section.cover {
-				padding: 12em 0em;
+				padding: 4em 0em;
 			}
 
 				#main section.cover header {
