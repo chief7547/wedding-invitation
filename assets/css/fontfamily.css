@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600|Marck+Script|Nanum+Gothic|Nanum+Myeongjo|Poiret+One|Tangerine:400,700|Song+Myung|Nanum+Brush+Script');
+
+.date{
+  font-family: 'Poiret One', cursive;
+  color: #333;
+}
+
+.groom {
+  font-family: 'Nanum Gothic', serif;
+  font-size: 40px;
+}
+
+.bride {
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 40px;
+}
+
+.sentense {
+  font-family: 'Nanum Myeongjo', cursive;
+  font-size: 30px;
+}
