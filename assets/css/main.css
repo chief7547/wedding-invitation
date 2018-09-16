@@ -2413,6 +2413,10 @@ input, select, textarea {
 				padding: 0 2em 0 2em;
 			}
 
+			.sentense {
+			  font-family: 'Noto Serif KR', sans-serif;
+			  font-size: 16px;
+			}
 		/* Item */
 
 			.item {
@@ -2597,6 +2601,12 @@ input, select, textarea {
 			.container {
 				padding: 5em 10px 0 10px;
 			}
+
+			.sentense {
+			  font-family: 'Noto Serif KR', sans-serif;
+			  font-size: 14px;
+			}
+
 
 		/* List */
 
